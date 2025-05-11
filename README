@@ -4,5 +4,16 @@ project via Visual Studio Code.
 
 
 ### Links
+   - https://code.visualstudio.com/docs/debugtest/tasks
    - https://code.visualstudio.com/docs/cpp/launch-json-reference
+   - https://code.visualstudio.com/docs/cpp/customize-cpp-settings
    
+   - https://code.visualstudio.com/docs/reference/variables-reference
+       ${workspaceFolder}         -> Path of the folder opened in VS Code
+       ${fileDirname}             -> Currently opened file's folder path
+       ${fileBasenameNoExtension} -> Currently opened file's basename with no file extension
+
+   - https://microsin.net/programming/arm/vscode-ccpppropertiesjson-reference.html
+   - https://stackoverflow.com/questions/54495406/how-to-switch-between-build-targets-in-visual-studio-code/64837650
+   
+   - https://developer.apple.com/library/archive/documentation/CoreFoundation/Conceptual/CFDesignConcepts/CFDesignConcepts.html#//apple_ref/doc/uid/10000122i

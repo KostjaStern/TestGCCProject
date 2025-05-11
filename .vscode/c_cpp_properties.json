@@ -5,6 +5,9 @@
             "includePath": [
                 "${workspaceFolder}/**"
             ],
+            "macFrameworkPath": [
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/"
+            ],
             "defines": [],
             "compilerPath": "/Library/Developer/CommandLineTools/usr/bin/g++",
             "cStandard": "c17",
