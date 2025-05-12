@@ -8,8 +8,7 @@
                 "-fdiagnostics-color=always",
                 "-framework", "CoreFoundation",
                 "-g", "${file}",
-                "-o", "${workspaceFolder}/bin/${fileBasenameNoExtension}",
-                "-v"
+                "-o", "${workspaceFolder}/bin/${fileBasenameNoExtension}"
             ],
             "options": {
                 "cwd": "${fileDirname}"
